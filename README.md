@@ -13,7 +13,7 @@
 
 - 🎙️ **Voice-to-Text + Text-to-Speech**
 - 🗣️ **Multilingual Support** (English, Hindi, Marathi)
-- 🧠 **ChatGPT 4.0 Integrated**
+- 🧠 **openai api Integrated**
 - 🔐 **Face & Voice Authentication**
 - 🖥️ **Desktop Assistant Capabilities** (Open apps, control system)
 - 📚 **Student & Rural Support Mode**
