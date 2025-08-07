@@ -1,0 +1,16 @@
+README.md
+setup.py
+assistant/__init__.py
+assistant/tasks.py
+assistant/core/__init__.py
+assistant/core/brain.py
+assistant/core/config.py
+assistant/core/speech_engine.py
+assistant/utils/__init__.py
+assistant/utils/internet_checker.py
+assistant/utils/nlp_processor.py
+guru_assistant.egg-info/PKG-INFO
+guru_assistant.egg-info/SOURCES.txt
+guru_assistant.egg-info/dependency_links.txt
+guru_assistant.egg-info/requires.txt
+guru_assistant.egg-info/top_level.txt

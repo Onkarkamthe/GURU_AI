@@ -1,0 +1,6 @@
+speechrecognition
+pyttsx3
+pyaudio
+pocketsphinx
+python-dotenv
+nltk
